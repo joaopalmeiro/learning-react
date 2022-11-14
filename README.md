@@ -41,3 +41,8 @@ function App() {
 - [Documentation](https://reactjs.org/docs/reconciliation.html)
 
 ---
+
+## Understanding useMemo and useCallback by Josh W. Comeau
+
+| [Blog post](https://www.joshwcomeau.com/react/usememo-and-usecallback/) | Notes |
+| ----------------------------------------------------------------------- | ----- |
