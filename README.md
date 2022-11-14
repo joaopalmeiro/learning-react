@@ -30,3 +30,14 @@ function App() {
   return <DogProfile dog={dog} />;
 }
 ```
+
+---
+
+## How React Reconciliation Works by Kingsley Silas
+
+> [Blog post](https://css-tricks.com/how-react-reconciliation-works/)
+
+- Reconciliation: "(...) process through which React updates the DOM."
+- [Documentation](https://reactjs.org/docs/reconciliation.html)
+
+---
