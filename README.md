@@ -44,5 +44,5 @@ function App() {
 
 ## Understanding useMemo and useCallback by Josh W. Comeau
 
-| [Blog post](https://www.joshwcomeau.com/react/usememo-and-usecallback/) | Notes |
-| ----------------------------------------------------------------------- | ----- |
+| [Blog post](https://www.joshwcomeau.com/react/usememo-and-usecallback/) | [Notes](notes/understanding-usememo-and-usecallback.pdf) |
+| ----------------------------------------------------------------------- | -------------------------------------------------------- |
