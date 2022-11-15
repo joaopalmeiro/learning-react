@@ -55,3 +55,10 @@ function App() {
 | ---------------------------------------------------------- | ------------------------------------------------------------- |
 
 ---
+
+## React State Management Libraries and How to Choose by Dave Ceddia
+
+| [Blog post](https://daveceddia.com/react-state-management/) | Notes |
+| ----------------------------------------------------------- | ----- |
+
+---
