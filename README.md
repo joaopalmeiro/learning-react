@@ -46,3 +46,12 @@ function App() {
 
 | [Blog post](https://www.joshwcomeau.com/react/usememo-and-usecallback/) | [Notes](notes/understanding-usememo-and-usecallback.pdf) |
 | ----------------------------------------------------------------------- | -------------------------------------------------------- |
+
+---
+
+## A Visual Guide to References in JavaScript by Dave Ceddia
+
+| [Blog post](https://daveceddia.com/javascript-references/) | [Notes](notes/a-visual-guide-to-references-in-javascript.pdf) |
+| ---------------------------------------------------------- | ------------------------------------------------------------- |
+
+---
